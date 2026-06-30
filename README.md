@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Gopal Kashyap</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://fiverr-res.cloudinary.com/image/upload/t_main1,q_auto,f_auto/v1/attachments/delivery/asset/f46907b961e0205556f59646138bf97a-1599114158/Animated%20Gif%2001.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/778d6985-1d12-4227-8b95-13421d3516ca">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=gopalkashyap19&label=Profile%20views&color=0e75b6&style=flat" alt="gopalkashyap19" /> 
