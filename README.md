@@ -8,7 +8,7 @@
 </p>
 
 - 🔭 I’m currently working on [Chatbot](https://github.com/gopalkashyap19/chatbot_github)  
-- 🌱 I’m currently learning **Flask_Socket, JavaScript connection establishment**  
+- 🌱 Learning **Flask_Socket, JavaScript connection establishment**  
 - 📫 How to reach me: **gopal267kashyap@gmail.com**  
 - 📄 Experience: I did a two-month summer internship at Osculant Technologies Private Limited as a Digital Marketing Executive, where I learned graphic designing. Alongside, I worked on my Chatbot project and explored several backend procedures.  
 - ⚡ Fun fact: **I am a Cool Rider.**
